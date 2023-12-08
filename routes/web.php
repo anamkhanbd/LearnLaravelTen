@@ -33,3 +33,18 @@ Route::get('/post/{id?}',function(string $id = null){
     }; 
     
 });
+
+/* Testing 2 cild peramiiter with Route */
+Route::get("/posts/{name?}/commant/{cname?}", function(string $name = null , string $cname = null){
+    if ($name) {
+        return"<h1> This is ID : ". $name . "</h1>" . "$cname";
+    } else {
+      return '<h1> ID not Found !' ; 
+    };
+});
+
+/* Some Extra Routing Mathod use psth of Require */
+/*  ->whereNumaric ;
+    ->whereAlpha ;
+    ->whereAlphaNeumaric ;
+*/
