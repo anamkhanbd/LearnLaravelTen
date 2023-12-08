@@ -30,6 +30,6 @@ Route::get('/post/{id?}',function(string $id = null){
     return "<h1> This is ID :" . $id . "</h1>";
     } else {
         return "Not Found Valid ID" ;
-    };
+    }; 
     
 });
