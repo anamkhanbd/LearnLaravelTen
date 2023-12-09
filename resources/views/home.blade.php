@@ -40,10 +40,10 @@
           <div class="col-8" id="nav">
             <ul>
               <li><a href="/" class="nav-link">Home</a></li>
-              <li><a href="/about-us" class="nav-link">About</a></li>
-              <li><a href="/sell" class="nav-link">Products</a></li>
-              <li><a href="/service" class="nav-link">Service</a></li>
-              <li><a href="/contact" class="nav-link">Contact us</a></li>
+              <li><a href="{{route('about')}}" class="nav-link">About</a></li>
+              <li><a href="{{route('sell')}}" class="nav-link">Products</a></li>
+              <li><a href="{{route('service')}}" class="nav-link">Service</a></li>
+              <li><a href="{{route('contact')}}" class="nav-link">Contact us</a></li>
             </ul>
           </div>
         </div> 

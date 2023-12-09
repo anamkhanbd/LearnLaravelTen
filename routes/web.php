@@ -17,10 +17,10 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::view('/about-us','about');
-Route::view('/contact','contactpage');
-Route::view('/sell','sellproduct');
-Route::view('/service','services');
+Route::view('/about-us-mia','about')->name('about');
+Route::view('/contact','contactpage')->name('contact');
+Route::view('/sell','sellproduct')->name('sell');
+Route::view('/service','services')->name('service');
 
 
 
