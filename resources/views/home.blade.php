@@ -34,6 +34,14 @@
     <div class="container-fluid" id="service">
         <div class="container">
             <div class="row">
+                <div class="col-12 section-title">
+                    <h1 class="text-center" id="section-title">
+                        <a href="/service" style="font-size: 50px; color:black;" class="typewrite" data-period="2000" data-type='[ "Our Services"]'>
+                          <span class="wrap"></span>
+                        </a>
+                      </h1>
+                    <hr>
+                </div>
                 <div class="col-12">
                     <div class="slideshow-container">
 
@@ -48,6 +56,7 @@
                                                 <p class="card-text">
                                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
                                                 </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
                                             </div>
                                         </div>
                                     </div>
@@ -59,6 +68,7 @@
                                                 <p class="card-text">
                                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
                                                 </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
                                             </div>
                                         </div>
                                     </div>
@@ -70,6 +80,50 @@
                                                 <p class="card-text">
                                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
                                                 </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="mySlides fade">
+                            <div class="container-fluid">
+                                <div class="row">
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img class="card-img-top card-icon" src="/images/market_2131.png" alt="">
+                                            <div class="card-body">
+                                                <h4 class="card-title">E Commercs Website</h4>
+                                                <p class="card-text">
+                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
+                                                </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img class="card-img-top card-icon" src="/images/frontend-development.png" alt="">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Frontend Development</h4>
+                                                <p class="card-text">
+                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
+                                                </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-4">
+                                        <div class="card">
+                                            <img class="card-img-top card-icon" src="/images/backend-development.png" alt="">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Backend Development</h4>
+                                                <p class="card-text">
+                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
+                                                </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
                                             </div>
                                         </div>
                                     </div>
@@ -88,6 +142,7 @@
                                                 <p class="card-text">
                                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
                                                 </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
                                             </div>
                                         </div>
                                     </div>
@@ -99,6 +154,7 @@
                                                 <p class="card-text">
                                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
                                                 </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
                                             </div>
                                         </div>
                                     </div>
@@ -110,46 +166,7 @@
                                                 <p class="card-text">
                                                     Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
                                                 </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <div class="mySlides fade">
-                            <div class="container-fluid">
-                                <div class="row">
-                                    <div class="col-4">
-                                        <div class="card">
-                                            <img class="card-img-top card-icon" src="/images/education_cap_graduate_award_icon_149711.png" alt="">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Education Website</h4>
-                                                <p class="card-text">
-                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="card">
-                                            <img class="card-img-top card-icon" src="/images/frontend-development.png" alt="">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Frontend Development</h4>
-                                                <p class="card-text">
-                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-4">
-                                        <div class="card">
-                                            <img class="card-img-top card-icon" src="/images/backend-development.png" alt="">
-                                            <div class="card-body">
-                                                <h4 class="card-title">Backend Development</h4>
-                                                <p class="card-text">
-                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam quos aut, nostrum ipsum id molestiae voluptate, enim sapiente tempora, ipsa eum non ab nam voluptas?
-                                                </p>
+                                                <a href="#" class="btn btn-success">Learn more </a>
                                             </div>
                                         </div>
                                     </div>
@@ -167,8 +184,148 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> 
+        </div>
+    </div>
+
+    {{--Product Section--}}
+    <div class="container-fluid" id="product">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 section-title">
+                    <h1 class="text-center" id="section-title">
+                        <a href="/product" style="font-size: 50px; color:black;" class="typewrite" data-period="2000" data-type='[ "Our Product"]'>
+                          <span class="wrap"></span>
+                        </a>
+                      </h1>
+                    <hr>
+                </div>
                 
+                <div class="col-12">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="flip-card">
+                                <div class="flip-card-inner">
+                                  <div class="flip-card-front">
+                                    <img src="/images/school-website.png" alt="Avatar" style="width:300px;height:300px;">
+                                  </div>
+                                  <div class="flip-card-back">
+                                    <h1 class="flip-title">School Website Templade</h1> 
+                                    <p class="flip-p">HTML5, CSS3, Bootstrap4, <br> js, jQuaey, Laravel10.</p> 
+                                    <a href="/" class="btn btn-danger ml-1">Live Demo</a>
+                                    <a href="/" class="btn btn-success ml-1">Download Now</a>
+                                  </div>
+                                </div>
+                              </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="flip-card">
+                                <div class="flip-card-inner">
+                                  <div class="flip-card-front">
+                                    <img src="/images/school-website-admin-panel.png" alt="Avatar" style="width:300px;height:300px;">
+                                  </div>
+                                  <div class="flip-card-back">
+                                    <h1 class="flip-title">CMS Panel</h1> 
+                                    <p class="flip-p">HTML5, CSS3, Bootstrap4, <br> js, jQuaey, Laravel10.</p> 
+                                    <a href="/" class="btn btn-danger ml-1">Live Demo</a>
+                                    <a href="/" class="btn btn-success ml-1">Download Now</a>
+                                  </div>
+                                </div>
+                              </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="flip-card">
+                                <div class="flip-card-inner">
+                                  <div class="flip-card-front">
+                                    <img src="/images/school-website.png" alt="Avatar" style="width:300px;height:300px;">
+                                  </div>
+                                  <div class="flip-card-back">
+                                    <h1 class="flip-title">E-Commerce Website Templade</h1> 
+                                    <p class="flip-p">HTML5, CSS3, Bootstrap4, <br> js, jQuaey, Laravel10.</p> 
+                                    <a href="/" class="btn btn-danger ml-1">Live Demo</a>
+                                    <a href="/" class="btn btn-success ml-1">Download Now</a>
+                                  </div>
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top: 15px;">
+                        <div class="col-md-4">
+                            <div class="flip-card">
+                                <div class="flip-card-inner">
+                                  <div class="flip-card-front">
+                                    <img src="/images/school-website.png" alt="Avatar" style="width:300px;height:300px;">
+                                  </div>
+                                  <div class="flip-card-back">
+                                    <h1 class="flip-title">School Website Templade</h1> 
+                                    <p class="flip-p">HTML5, CSS3, Bootstrap4, <br> js, jQuaey, Laravel10.</p> 
+                                    <a href="/" class="btn btn-danger ml-1">Live Demo</a>
+                                    <a href="/" class="btn btn-success ml-1">Download Now</a>
+                                  </div>
+                                </div>
+                              </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="flip-card">
+                                <div class="flip-card-inner">
+                                  <div class="flip-card-front">
+                                    <img src="/images/school-website-admin-panel.png" alt="Avatar" style="width:300px;height:300px;">
+                                  </div>
+                                  <div class="flip-card-back">
+                                    <h1 class="flip-title">CMS Panel</h1> 
+                                    <p class="flip-p">HTML5, CSS3, Bootstrap4, <br> js, jQuaey, Laravel10.</p> 
+                                    <a href="/" class="btn btn-danger ml-1">Live Demo</a>
+                                    <a href="/" class="btn btn-success ml-1">Download Now</a>
+                                  </div>
+                                </div>
+                              </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="flip-card">
+                                <div class="flip-card-inner">
+                                  <div class="flip-card-front">
+                                    <img src="/images/school-website.png" alt="Avatar" style="width:300px;height:300px;">
+                                  </div>
+                                  <div class="flip-card-back">
+                                    <h1 class="flip-title">E-Commerce Website Templade</h1> 
+                                    <p class="flip-p">HTML5, CSS3, Bootstrap4, <br> js, jQuaey, Laravel10.</p> 
+                                    <a href="/" class="btn btn-danger ml-1">Live Demo</a>
+                                    <a href="/" class="btn btn-success ml-1">Download Now</a>
+                                  </div>
+                                </div>
+                              </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+    {{--Developer Serction--}}
+
+    <div class="container-fluid" id="developer">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 section-title">
+                    <h1 class="text-center" id="section-title">
+                        <a href="/developer" style="font-size: 50px; color:black;" class="typewrite" data-period="2000" data-type='[ "Our Developer Team"]'>
+                          <span class="wrap"></span>
+                        </a>
+                      </h1>
+                    <hr>
+                </div>
+                <div class="col-md-6" id="md-rimon">
+                    <div class="dev-info">
+                        <h3 class="dev-title">M H Rimon Khan</h3>
+                        <p class="dev-text">BSC - Computer Science and Engineering, <br> <span>DUI.Dhaka Dhanmondhi .</span></p>
+                        <p class="dev-text">Full Stack Web Developer.</p>
+                        <p class="dev-text">Uses Technology - <span>HTML, CSS, JS, ReactJS, PHP, Laravel, SQL, mySQL.</span></p>
+                    </div>
+                </div>
+                <div class="col-md-6"></div>
+            </div>
         </div>
     </div>
 @endsection

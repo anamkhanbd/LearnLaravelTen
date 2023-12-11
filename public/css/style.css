@@ -1,6 +1,8 @@
 * {
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
 }
 #hero{
     background-color: rgb(20, 20, 20);
@@ -72,7 +74,15 @@
 
 /* Service Section */
 #service{
-    margin-top: 100px;
+    margin-top: 20px;
+}
+
+#section-title{
+  margin-bottom: 10px;
+}
+.section-link{
+  font-weight: 600;
+  text-decoration: none;
 }
 /* Slideshow container */
 .slideshow-container {
@@ -119,7 +129,7 @@
   /* Fading animation */
   .fade {
     animation-name: fade;
-    animation-duration: 1.5s;
+    animation-duration: 2.5s;
   }
   
   @keyframes fade {
@@ -136,4 +146,74 @@
     margin-left: 40%;
     border-radius: 4px;
   }
+
+
+
+
+/* Product SEction */
+
+  /*Flip Div css */
+  .flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+    perspective: 1000px;
+  }
   
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  
+  .flip-card-front {
+    background-color: #bbb;
+    color: black;
+  }
+  
+  .flip-card-back {
+    background-color: #2980b9;
+    color: white;
+    transform: rotateY(180deg);
+  }
+
+  /* Flip Text */
+  .flip-title{
+    font-size: x-large;
+    font-weight: 600;
+    background-color:crimson;
+    padding: 10px 0;
+  }
+  .flip-p{
+    margin-top: 15px;
+    font-size: larger;
+    font-weight: lighter;
+    margin-bottom: 50px;
+  }
+
+
+  /* developer css */
+
+  #md-rimon{
+    background-image: url(/images/mh-rimon-khan-removebg-preview.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+  }

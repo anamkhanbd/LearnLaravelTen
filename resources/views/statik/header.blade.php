@@ -29,16 +29,16 @@
                                     <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/service">Services</a>
+                                    <a class="nav-link" href="#service">Services</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/product">Product</a>
+                                    <a class="nav-link" href="#product">Product</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/developer">Developer</a>
+                                    <a class="nav-link" href="#developer">Developer</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/contact">Contact</a>
+                                    <a class="nav-link" href="#contact">Contact</a>
                                 </li>
                             </ul>
                         </div>
