@@ -316,7 +316,14 @@
                       </h1>
                     <hr>
                 </div>
-                <div class="col-md-6" id="md-rimon">
+                <div class="col-md-12" id="md-rimon">
+                    <div class="dev-selid">
+                        <p class="deb-link">
+                            <a href="/" style="font-size: 25px; color:black; font-family: sans-serif;" class="typewrite" data-period="2000" data-type='[ "I am Developer.", "Founder of RimonIT Solution"]'>
+                                <span class="wrap"></span>
+                              </a>
+                        </p>
+                    </div>
                     <div class="dev-info">
                         <h3 class="dev-title">M H Rimon Khan</h3>
                         <p class="dev-text">BSC - Computer Science and Engineering, <br> <span>DUI.Dhaka Dhanmondhi .</span></p>
@@ -324,8 +331,81 @@
                         <p class="dev-text">Uses Technology - <span>HTML, CSS, JS, ReactJS, PHP, Laravel, SQL, mySQL.</span></p>
                     </div>
                 </div>
-                <div class="col-md-6"></div>
+                <div class="col-md-12" id="ah-anam">
+                    <div class="dev-selid">
+                        <p class="deb-link">
+                            <a href="/" style="font-size: 25px; color:black; font-family: sans-serif;" class="typewrite" data-period="2000" data-type='[ "I am Frontend Developer.", "Web Designer of RimonIT Solution"]'>
+                                <span class="wrap"></span>
+                              </a>
+                        </p>
+                    </div>
+                    <div class="dev-info">
+                        <h3 class="dev-title">A H ANAM KHAN</h3>
+                        <p class="dev-text">Deb Design - W3Schools, <br> <span>Online Technology Learning Platform .</span></p>
+                        <p class="dev-text">Frontend Web Developer.</p>
+                        <p class="dev-text">Uses Technology - <span>HTML, CSS, JS, Laravel, Blade Templade.</span></p>
+                    </div>
+                </div>
             </div>
         </div>
+    </div>
+
+
+    {{--Contact Page --}}
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 section-title">
+                    <h1 class="text-center" id="section-title">
+                        <a href="/contact" style="font-size: 50px; color:black;" class="typewrite" data-period="2000" data-type='[ "Contact us"]'>
+                          <span class="wrap"></span>
+                        </a>
+                      </h1>
+                    <hr>
+                </div>
+            </div>
+        </div>
+        <div class="container" id="contact">
+            <div class="content">
+              <div class="left-side">
+                <div class="address details">
+                  <i class="fas fa-map-marker-alt"></i>
+                  <div class="topic">Address</div>
+                  <div class="text-one">Dhaka, Kollany</div>
+                  <div class="text-two">Kollany, Mirpur 1</div>
+                </div>
+                <div class="phone details">
+                  <i class="fas fa-phone-alt"></i>
+                  <div class="topic">Phone</div>
+                  <div class="text-one">+0098 9893 5647</div>
+                  <div class="text-two">+0096 3434 5678</div>
+                </div>
+                <div class="email details">
+                  <i class="fas fa-envelope"></i>
+                  <div class="topic">Email</div>
+                  <div class="text-one">rimonitsolution@gmail.com</div>
+                  <div class="text-two">contact@rimonitsolution.com</div>
+                </div>
+              </div>
+              <div class="right-side">
+                <div class="topic-text">Send us a message</div>
+                <p>If you have any work from us to contact now, you can send me message from here. It's my pleasure to help you.</p>
+              <form action="#">
+                <div class="input-box">
+                  <input type="text" placeholder="Enter your name">
+                </div>
+                <div class="input-box">
+                  <input type="text" placeholder="Enter your email">
+                </div>
+                <div class="input-box message-box">
+                  <textarea name="" id="" cols="30" rows="10"></textarea>
+                </div>
+                <div class="button">
+                  <input type="button" value="Send Now" >
+                </div>
+              </form>
+            </div>
+            </div>
+          </div>
     </div>
 @endsection
